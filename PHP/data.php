@@ -15,6 +15,10 @@
                 <li><a href="index.php">Data</a></li>
             </ul>
 
+            <img src="header.jpg" alt="header"> <!---https://www.thecrazytourist.com/15-best-things-to-do-in-plymouth-devon-england/ --->
+            <br>
+            <br>
+            <br>
             <p1>This website contains the dataset for the Libraries found around Plymouth.</p1>
             <br>
             <br>

@@ -39,5 +39,14 @@ ul {
 
 li {
     display: inline;
+    color: black;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
+a {
+    font-size: 125%;
 }
 
